@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://39-signage-lumisign.netlify.app/sitemap.xml
